@@ -20,7 +20,7 @@
                     ],
                     'link_settings': {
                         'libraries': [ '-lpcsclite' ],
-                        'library_dirs': [ '/usr/lib', '/usr/lib64' ]
+                        'library_dirs': [ '/usr/lib64', '/usr/lib' ]
                     }
                 }],
                 ['OS=="mac"', {
